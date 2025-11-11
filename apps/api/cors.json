@@ -1,0 +1,11 @@
+[
+  {
+    "origin": [
+      "https://artisan-web-105612697538.asia-south1.run.app",
+      "http://localhost:5173"
+    ],
+    "responseHeader": ["Content-Type", "x-goog-meta-*"],
+    "method": ["GET", "HEAD", "PUT", "POST", "OPTIONS"],
+    "maxAgeSeconds": 3600
+  }
+]
